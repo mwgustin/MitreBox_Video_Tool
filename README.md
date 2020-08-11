@@ -4,3 +4,6 @@ A Raspberry PI Zero based tool to loop video playback and provide HDMI connectio
 Utilizes the Adafruit OLED bonnet for menu navigation and a Pi Zero W for control.
 
 
+![Screenshot Menu](Screenshots/menu.jpg)
+![Screenshot HDMI info](Screenshots/hdmi-info.jpg)
+![Screenshot In Use](Screenshots/in-use.jpg)
